@@ -5,7 +5,6 @@ import Proj.Management.SaaS.Exception.EventNotFoundException;
 import Proj.Management.SaaS.Exception.NoArgumentsFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
